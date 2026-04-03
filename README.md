@@ -115,7 +115,7 @@ El dashboard incluye:
 
 ## Dashboard
 
-![Dashboard](./dashboard.png)
+![Dashboard](imagenes/dashboard.png)
 
 
 
